@@ -1,0 +1,1 @@
+Use Tensorflow build a linear regression model with two feature inputs, since Tensorflow can working with GPU.
